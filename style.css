@@ -1,0 +1,42 @@
+
+.f1{
+    border: solid 5px;
+padding: 50px;
+height: 300px;
+margin: 10px;
+width: 220px;
+margin-top: 100px;
+margin-left: 500px;
+position: absolute;
+background-color: yellowgreen;
+border-radius: 20px;
+}
+.a1{
+position: absolute;
+margin-top: 70px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-right: 5px;
+    padding: 5px;
+    display: flex;
+}
+.a2{
+    display: flex;
+    position: absolute;
+    margin-right: 150px;
+    margin-top: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a3{
+    border: solid lightgray 5px;
+    border-radius: 10px;
+    display: flex;
+    position: absolute;
+    margin-top: 200px;
+    height: 40px;
+    width: 70px;
+margin-left: 70px;    
+}
+.a4{
+    text-decoration: none;
+    background-color: aquamarine;
+}

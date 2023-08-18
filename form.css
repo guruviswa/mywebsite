@@ -1,0 +1,79 @@
+
+.f1{
+    border: solid 2px lightcoral;
+    display: flex;
+    display: block;
+    padding: 10px;
+    position: absolute;
+    margin-top: 200px;
+    border-radius: 10px;
+    height: 200px;
+    margin-left: 500px;
+background-color: yellowgreen;
+    width: 350px;
+}
+#w1{
+    display: flex;
+    position: absolute;
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: 40px;
+}
+#w2{
+    display: flex;
+    position: absolute;
+    margin-top: 50px;
+    padding: 10px;
+    margin-left: 40px;
+
+}
+#w3{
+    display: flex;
+    position: absolute;
+    margin-top: 90px;
+    padding: 10px;
+    margin-left: 60px;
+
+}
+#w4{
+    display: flex;
+    position: absolute;
+    margin-top: 120px;
+    padding: 10px;
+    margin-left: 60px;
+}
+.h1{
+    display: flex;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 600px;
+}
+#w5{
+    display: flex;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 100px;
+    border: solid 2px lightgrey;
+    background-color: aquamarine;
+    height: 30px;
+    width: 60px;
+}
+a{
+    text-decoration: none;
+    height: 30px;
+    color: black;
+    
+}
+#w6{
+    display: flex;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 190px;
+    
+    
+    height: 30px;
+    width: 100px;
+}
+form{
+    background-color: yellowgreen;
+}
